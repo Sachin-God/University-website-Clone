@@ -66,6 +66,7 @@
 @media (max-width: 800px) {
     .contact{
         display: block;
+        margin: 20px;
     }
 
     .contact-col{
